@@ -62,3 +62,7 @@ Dend designed for this excercise can be described with following graph:
 ![alt text](https://github.com/matpl2/DEND_DPIPELINES/blob/main/picts/example-dag.png)
 
 In this excercise it was optimized by placing subdag:
+
+
+![alt text](https://github.com/matpl2/DEND_DPIPELINES/blob/main/picts/subdag.png)
+
