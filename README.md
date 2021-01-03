@@ -1,7 +1,7 @@
 # DEND Data Pipelines Project
 This file is a documentation file for the exercise performed as a part of Data Engineer NanoDegree Project - Data Pipelines. 
 
-Purpose of this project is to build an ETL pipeline for a data lake hosted on S3. 
+Purpose of this project is to create high grade data pipelines that are dynamic and built from reusable tasks, can be monitored, and allow easy backfills. These pipelines should also ensure the data quality check.
 
 ## Files
 This project includes following files:
